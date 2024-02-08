@@ -1,0 +1,5 @@
+python>=3.9.18
+pyspark>=3.4.1
+pandas>=2.1.1
+notebook>=6.5.4
+configparser>=5.0.2
